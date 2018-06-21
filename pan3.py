@@ -1,4 +1,4 @@
-#START UP THE GAME
+#START UP THE PANDEMIC GAME
 
 #Import libraries
 import random
